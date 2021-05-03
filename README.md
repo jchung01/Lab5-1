@@ -9,4 +9,4 @@ James Chung
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+[Latest issue in CI Intro](https://github.com/jchung01/github-actions-for-ci/issues/7)
