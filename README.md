@@ -5,7 +5,7 @@ James Chung
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+[Meme Generator](https://jchung01.github.io/Lab5-1/)
 
 ## Part 2:
 
